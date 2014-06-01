@@ -3,11 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+    Rhenan Medeiros -- Developer -- @Rhenan_lm
 
 # TECHNOLOGY COLOPHON
 
